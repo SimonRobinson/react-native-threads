@@ -2,6 +2,13 @@
 
 This repository adheres to semantic versioning and follows the conventions of [keepachangelog.com](http://keepachangelog.com).
 
+## 1.2.0 - 2025-01-20
+### Changed
+- Run `npm audit fix`
+
+### Removed
+- Unused example project
+
 ## 1.1.0 - 2023-11-17
 ### Changed
 - Android: Support React Native 0.69
